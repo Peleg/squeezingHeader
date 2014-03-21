@@ -31,4 +31,4 @@ $('.header').squeezingHeader(elementPositions);
 
 ```
 
-For an working example, check out `demo.html`
+For a working example, check out `demo.html`
