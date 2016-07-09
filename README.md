@@ -3,7 +3,9 @@ squeezingHeader
 
 A jQuery plugin for squeezing your header on scroll down.
 
-[Demo, Demo, Demo, Demo](http://htmlpreview.github.io/?https://github.com/Peleg/squeezingHeader/blob/master/demo.html)
+[Demo's here](http://htmlpreview.github.io/?https://github.com/Peleg/squeezingHeader/blob/master/demo.html)
+
+[And IRL](https://education.burnsfilmcenter.org/education)
 
 Usage
 =====
